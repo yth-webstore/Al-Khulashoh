@@ -1,0 +1,6 @@
+{
+  "name": "Al-Khulashah - Intisari Dzikir & Doa Habib Umar bin Hafidz",
+  "description": "Aplikasi pembaca, penyunting teks (editor), dan repositori digital Kitab Al-Khulashah susunan Al-Habib Umar bin Hafidz lengkap dengan teks Arab berharakat, terjemahan Indonesia, dan integrasi GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
